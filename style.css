@@ -1,0 +1,86 @@
+
+
+
+.big-pic {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(255, 207, 145);
+}
+.below-nav{
+    height: 900px;
+    width:100%;
+    background-color: green;
+}
+
+
+.big-text{
+    color: rgb(199, 0, 56);
+    font-family: "Crimson Text";
+    font-size: 4.5vw;
+}
+.sub-big{
+    color: rgb(199, 0, 56);
+    font-family: "Crimson Text";
+    font-size: 4vw;
+}
+.smaller-text{
+    color: aqua;
+    font-family: "Crimson Text";
+    font-size: 30px;
+}
+
+.navbar{
+
+    font-size: 25px;
+    font-family: "Montserrat";
+}
+.tab-content{
+    font-family: "Montserrat";
+}
+.info-box{
+    height:400px;
+
+}
+.info-card{
+    background-color: rgba(96, 234, 168, 0.3);
+    height: 250px;
+    color: white;
+    outline: 3px solid black;
+}
+.info-card2{
+    background-color: rgba(96, 234, 168, 0.3);
+    height: 200px;
+    color: white;
+    outline: 3px solid black;
+}
+.outline-t{
+    text-shadow: 1px 1px black;
+}
+.home-box{
+    height: 400px;
+}
+.container-fluid{
+    padding:0px;
+}
+#home{
+    background-color: rgb(255, 205, 148);
+    background-size: 100% 100%;
+    height:600px;
+}
+#info{
+    background-image: url(img/balloon-3.jpg);
+    background-size: 100% 100%;
+    height: 650px;
+    color:white;
+    text-shadow: 0px 0px black;
+}
+#gallery{
+    height: 3;
+    background-image: url(img/balloon-2.jpg);
+}
+.space{
+    height:20px;
+}
+.bg-primary{
+    background: rgb(255, 207, 145) !important;
+}
