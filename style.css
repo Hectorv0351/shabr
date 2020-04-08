@@ -14,7 +14,7 @@
 
 
 .big-text{
-    color: rgb(199, 0, 56);
+    color: rgb(255, 136, 77);
     font-family: 'Josefin Sans', sans-serif;
     font-size: 4.5vw;
 }
@@ -82,8 +82,9 @@
 }
 .navbar-brand{
     font-size: 40px !important;
-    color: red !important;
+    color: rgb(255, 136, 77) !important;
     font-family: 'Shadows Into Light', cursive;
+    text-shadow: 1px 1px white;
 }
 #cover-img{
     
@@ -174,10 +175,11 @@ img{
     height: 325px ;
 }
 .card{
-    height: 425px;
+    height: 450px;
 }
 .card-text{
     font-family: 'Josefin Sans', sans-serif;
+    font-size: -1.25vw;
 }
 #contact{
     height: 375px;
